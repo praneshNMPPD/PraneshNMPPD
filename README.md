@@ -1,4 +1,4 @@
-# 👨🏻About Me:
+# About Me:
 Hello! I'm Pranesh M P, an enthusiastic Artificial Intelligence and Machine Learning student with a strong foundation in both machine learning and deep learning projects. My journey in the tech world began with a passion for programming, and I have honed my skills extensively in Java.<br><br>Currently, I am diving into the exciting realm of web development, where I am applying my knowledge and learning new concepts every day. I have a good grasp of web development principles and enjoy creating dynamic and responsive websites.<br><br>My diverse skill set and continuous learning attitude drive me to tackle new challenges and stay updated with the latest advancements in technology. I'm always eager to connect with like-minded individuals and collaborate on innovative projects.
 
 
