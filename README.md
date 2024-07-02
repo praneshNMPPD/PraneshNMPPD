@@ -4,7 +4,10 @@ Hello! I'm Pranesh M P, an enthusiastic Artificial Intelligence and Machine Lear
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-m-p-776130282/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](praneshnmppd@gmail.com)
+<a href="mailto:praneshnmppd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
 
 
 # 💻 Tech Stack:
